@@ -1,0 +1,27 @@
+.guide{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+.guide_info{
+    margin-left: 540px;
+    margin-right: 100px;
+    margin-top: 150px;
+}
+
+.guide_info p{
+    color: rgba(0, 0, 0, 0.5);
+font-size: 20px;
+    margin-top: 65px;
+
+}
+
+.guide_info h3{
+    margin-top: 10px;
+}
+
+.guide_info h1{
+    font-size: 40px;
+
+}
